@@ -13,6 +13,6 @@ image_alt: "Weblinks"
 
 [Wandern in Ligurien](https://www.italienwandern.de/ligurien.html)
 
-[Die Stadt](https://www.visitgenoa.it/de)
+[Visit Genua](https://www.visitgenoa.it/de)
 
 [Luca in Ligurien](https://www.youtube.com/watch?v=HQ6Dhr9rIIk)
