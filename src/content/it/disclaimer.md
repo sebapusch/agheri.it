@@ -5,6 +5,7 @@ keywords: it
 lang: it
 path: /it/disclaimer/
 nav: disclaimer
+body_class: disclaimer-page
 ---
 
 # Disclaimer

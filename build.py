@@ -84,7 +84,8 @@ def render_markdown(markdown: str) -> str:
     def flush_paragraph() -> None:
         nonlocal paragraph
         if paragraph:
-            blocks.append("<p>" + inline_markdown(" ".join(paragraph)) + "</p>")
+            lines = [inline_markdown(line) for line in paragraph]
+            blocks.append("<p>" + "<br>\n".join(lines) + "</p>")
             paragraph = []
 
     def flush_list() -> None:

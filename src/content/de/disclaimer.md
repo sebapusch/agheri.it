@@ -5,6 +5,7 @@ keywords: de
 lang: de
 path: /de/disclaimer/
 nav: disclaimer
+body_class: disclaimer-page
 ---
 
 Technical Translations
