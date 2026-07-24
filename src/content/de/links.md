@@ -11,14 +11,8 @@ image_alt: "Weblinks"
 
 # Weblinks
 
-[http://www.italienwandern.de/Ligurien/Index.html](http://www.italienwandern.de/Ligurien/Index.html)
+[Wandern in Ligurien](https://www.italienwandern.de/ligurien.html)
 
-Wandern in Ligurien
+[Die Stadt](visitgenoa.it/de)
 
-[http://www.genova-turismo.it/spip.php?article801](http://www.genova-turismo.it/spip.php?article801)
-
-Touristenführer und Touren
-
-[www.digilander.libero.it/kclacal/liguriapicture.htm](http://digilander.libero.it/kclacal/liguriapicture.htm)
-
-Ligurien-Photos von Claudio Calamati
+[Luca in Ligurien](https://www.youtube.com/watch?v=HQ6Dhr9rIIk)
