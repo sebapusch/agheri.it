@@ -1,0 +1,39 @@
+<!doctype html>
+<html lang="{{ lang }}">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{{ title }}</title>
+  <meta name="description" content="{{ description }}">
+  <meta name="keywords" content="{{ keywords }}">
+  <meta name="robots" content="index,follow">
+  <link rel="stylesheet" href="/assets/css/site.css">
+</head>
+<body class="{{ body_class }}">
+  <header class="site-header">
+    <div class="header-inner">
+      <a class="brand" href="/">
+        <span class="visually-hidden">Technical Translations</span>
+      </a>
+      <div class="language-switch" aria-label="Language switch">
+        {{ lang_switch }}
+      </div>
+    </div>
+    <nav class="site-nav" aria-label="Main navigation">
+      {{ nav }}
+    </nav>
+  </header>
+
+  <main class="page-shell">
+    {{ image }}
+    <article class="page-content">
+      {{ content }}
+    </article>
+  </main>
+
+  <footer class="site-footer">
+    <a href="{{ footer_disclaimer }}">Disclaimer</a>
+    <a href="{{ footer_impressum }}">Impressum</a>
+  </footer>
+</body>
+</html>
