@@ -4,6 +4,7 @@ description: "Bürokratische und sprachliche Unterstützung für deutschsprachig
 keywords: de
 lang: de
 path: /de/immobilie-genova/
+body_class: disclaimer-page
 ---
 
 # Sie besitzen eine Immobilie in Genua?
