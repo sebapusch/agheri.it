@@ -13,5 +13,6 @@ body_class: landing
 [Deutsch](/de/)
 Sie besitzen eine Immobilie in Genua? [Ich helfe Ihnen bei der Bürokratie](/de/immobilie-genova/).
 
+
 **Traduttrice e interprete freelance (Genova):** traduzioni tecniche Tedesco > Italiano, Inglese > Italiano, interpretariato Tedesco <> Italiano.
 [Italiano](/it/)
