@@ -12,5 +12,7 @@ body_class: landing
 **Freelance Übersetzerin und Dolmetscherin (Genua, Italien):** technische Übersetzungen Deutsch > Italienisch, Englisch > Italienisch, Dolmetschen Deutsch <> Italienisch.
 [Deutsch](/de/)
 
+Sie besitzen eine Immobilie in Genua? [Ich helfe Ihnen bei der Bürokratie](/de/mmobilie-genova).
+
 **Traduttrice e interprete freelance (Genova):** traduzioni tecniche Tedesco > Italiano, Inglese > Italiano, interpretariato Tedesco <> Italiano.
 [Italiano](/it/)
