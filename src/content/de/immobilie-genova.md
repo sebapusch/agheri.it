@@ -9,7 +9,7 @@ body_class: disclaimer-page
 
 # Sie besitzen eine Immobilie in Genua?
 
-Ich unterstütze deutschsprachige Eigentümerinnen und Eigentümer bei bürokratischen Angelegenheiten rund um ihre Immobilie in Genua.
+Ich unterstütze deutschsprachige Eigentümerinnen und Eigentümer bei bürokratischen Angelegenheiten rund um ihre Immobilien in Genua.
 
 Dank meiner Ortskenntnis und meiner langjährigen Erfahrung als Übersetzerin und Dolmetscherin erleichtere ich Ihnen die Kommunikation mit Behörden, Versorgungsunternehmen und anderen örtlichen Ansprechpartnern.
 
