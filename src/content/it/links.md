@@ -11,9 +11,8 @@ image_alt: "Link"
 
 # Link
 
-[Itinerari escursionistici in Liguria](http://www.escursioniliguria.it/)
+[Itinerari escursionistici in Liguria](http://www.escursioniliguria.it/){new_tab}
 
-[Storico cineclub di Genova](http://www.circuitocinemagenova.it)
+[Storico cineclub di Genova](http://www.circuitocinemagenova.it){new_tab}
 
-[Luca, ambientato in Liguria](https://www.youtube.com/watch?v=HQ6Dhr9rIIk)
-
+[Luca, ambientato in Liguria](https://www.youtube.com/watch?v=HQ6Dhr9rIIk){new_tab}

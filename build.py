@@ -72,7 +72,23 @@ def inline_markdown(text: str) -> str:
     text = html.escape(text, quote=False)
     text = re.sub(r"\*\*(.+?)\*\*", r"<strong>\1</strong>", text)
     text = re.sub(r"`(.+?)`", r"<code>\1</code>", text)
-    text = re.sub(r"\[([^\]]+)\]\(([^)]+)\)", r'<a href="\2">\1</a>', text)
+
+    def new_tab_link(match: re.Match[str]) -> str:
+        label, url = match.groups()
+        href = url.replace('"', "&quot;")
+        return f'<a href="{href}" target="_blank" rel="noopener noreferrer">{label}</a>'
+
+    def link(match: re.Match[str]) -> str:
+        label, url = match.groups()
+        href = url.replace('"', "&quot;")
+        return f'<a href="{href}">{label}</a>'
+
+    text = re.sub(
+        r"\[([^\]]+)\]\(([^)]+)\)\{new_tab\}",
+        new_tab_link,
+        text,
+    )
+    text = re.sub(r"\[([^\]]+)\]\(([^)]+)\)", link, text)
     return text
 
 
